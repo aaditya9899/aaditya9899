@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer and Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya9899&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya9899" /> </p>
 
