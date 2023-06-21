@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya9899" alt="aaditya9899" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m a **MERN Stack** Developer
 
 - 📝 I regularly write articles on [https://dev.to/aaditya9899](https://dev.to/aaditya9899)
 
