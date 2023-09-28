@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **MERN Stack** Developer
 
-- 📝 I regularly write articles on [https://dev.to/aaditya9899](https://dev.to/aaditya9899)
+- 📝 Connect me on LinkedIn (https://www.linkedin.com/in/aadityaprasad/)
 
 - 💬 Ask me about **react, C++ , NodeJs and javaScript**
 
