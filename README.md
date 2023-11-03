@@ -9,8 +9,6 @@
 
 - 📝 Connect me on LinkedIn (https://www.linkedin.com/in/aadityaprasad/)
 
-- 💬 Ask me about **react, C++ , NodeJs and javaScript**
-
 - 📫 How to reach me **aadityaprasad9899@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny.**
